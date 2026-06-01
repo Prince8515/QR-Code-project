@@ -48,7 +48,8 @@ This saves the QR code as `github_qr.png` in the current directory.
 
 ## Output
 
-![QR Code Example](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/220px-QR_code_for_mobile_English_Wikipedia.svg.png)
+!<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/2fe1c537-e04f-414c-acef-a30a698a2c13" />
+[QR Code Example]https://en.y2down.app/)
 
 ## License
 
